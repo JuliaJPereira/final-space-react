@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    margin: 10px 0;
+}
+
+.char-image{
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+}
+
+.container-badge{
+    margin-top: 10px;
+}
+
+.container-badge > span{
+    margin-right: 6px;
+}
+
+.more-info{
+    margin: 20px 0;
+}
+
+.list-group-info{
+    margin-bottom: 60px;
+}
